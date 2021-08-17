@@ -25,7 +25,7 @@ auto scalling group to create more EC2 instances.
 For local machine:
 
     pip install -r requirements.text
-    python main.py # to train the model
+    python model.py # to train the model
     python app.py # to start a flask server
     python request.py # to post data to api to do prediction
     
